@@ -1,2 +1,2 @@
 # sample-repo
-For GIt practice
+更新しました
